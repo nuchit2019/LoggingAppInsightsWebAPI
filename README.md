@@ -1,5 +1,5 @@
 
-# LoggingAppInsights
+# LoggingAppInsightsWebAPI
 
 This project demonstrates how to implement structured logging in an ASP.NET Core Web API application using Application Insights and custom logging logic. 
 
