@@ -82,7 +82,7 @@ namespace LoggingAppInsights.Controllers
                 };
                 var errorDataString = JsonSerializer.Serialize(errorData);
 
-                _logger.LogError(LoggingMessages.EXCEPTION_PROCESS + processName + "LogError data: {LogError}", errorDataString, ex);
+                _logger.LogError(LoggingMessages.EXCEPTION_PROCESS + processName + " LogError data: {LogError}", errorDataString, ex);
             }
 
             return model;
