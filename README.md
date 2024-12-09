@@ -75,6 +75,8 @@ This project demonstrates how to implement structured logging in an ASP.NET Core
 
 ### Application Insights
 
+![image](https://github.com/user-attachments/assets/1a85c269-a2f1-47d2-a062-7118cea8d072)
+
 In the `appsettings.json` file, add the `APPLICATIONINSIGHTS_CONNECTION_STRING` in the `ConnectionStrings` section:
 
 ```json
