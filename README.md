@@ -51,7 +51,7 @@ This project demonstrates how to implement structured logging in an ASP.NET Core
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo/LoggingAppInsights.git
+   git clone https://github.com/nuchit2019/LoggingAppInsightsWebAPI.git
    cd LoggingAppInsights
    ```
 
